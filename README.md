@@ -1,7 +1,9 @@
-# Exercise-04c-Enemies
+
+Links to an external site.
+# Exercise-04d-Coins
 
 ## Implementation
-
+painted coins on for game-wide collection
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
